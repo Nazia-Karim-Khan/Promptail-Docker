@@ -8,3 +8,11 @@
 {"level":"info","message":"Accessed root route","timestamp":"2024-10-06T06:33:50.736Z"}
 {"level":"info","message":"Incoming request: GET /","method":"GET","timestamp":"2024-10-06T06:35:46.497Z","url":"/"}
 {"level":"info","message":"Accessed root route","timestamp":"2024-10-06T06:35:46.498Z"}
+{"level":"info","message":"Server running at http://localhost:5000/","timestamp":"2024-10-06T07:36:37.653Z"}
+{"level":"info","message":"Incoming request: GET /","method":"GET","timestamp":"2024-10-06T07:37:00.540Z","url":"/"}
+{"level":"info","message":"Accessed root route","timestamp":"2024-10-06T07:37:00.540Z"}
+{"level":"info","message":"Incoming request: GET /favicon.ico","method":"GET","timestamp":"2024-10-06T07:37:00.588Z","url":"/favicon.ico"}
+{"level":"info","message":"Incoming request: GET /","method":"GET","timestamp":"2024-10-06T07:49:02.557Z","url":"/"}
+{"level":"info","message":"Accessed root route","timestamp":"2024-10-06T07:49:02.557Z"}
+{"level":"info","message":"Incoming request: GET /","method":"GET","timestamp":"2024-10-06T07:49:05.061Z","url":"/"}
+{"level":"info","message":"Accessed root route","timestamp":"2024-10-06T07:49:05.061Z"}
